@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Armagan Sisik
 
-🔭 I’m currently working as Backend Developer at <a href="https://www.linkedin.com/company/qlub-pay/">Qlub</a><br>🌱 I’m currently learning Go<br>
-
+🔭 I’m currently working as Backend Developer at <a href="https://www.linkedin.com/company/qlub-pay/">Qlub</a> <br>
+👯 I’m also a part of a computer science student community called <a href="https://www.yildizskylab.com/">SKY LAB</a> in Yildiz Technical University <br>
+🌱 I’m currently learning Go
 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/armagan-sisik/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armagansisik@gmail.com)
